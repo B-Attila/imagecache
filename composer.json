@@ -1,9 +1,9 @@
 {
-    "name": "B-Attila/imagecache",
-    "exportName": "B-Attila//imagecache",
+    "name": "intervention/imagecache",
+    "exportName": "intervention/imagecache",
     "repository": {
       "type": "git",
-      "url": "https://github.com/B-Attila//imagecache.git"
+      "url": "https://github.com/B-Attila/imagecache.git"
     },
     "description": "Caching extension for the Intervention Image Class",
     "homepage": "https://image.intervention.io",
